@@ -109,6 +109,7 @@ ALL STAGES
  Hi-C heatmap resolution. default=100(kb)
 
 
+
 STAGE 1 PARAMETERS
 ~~~~~~~~~~
 
@@ -133,6 +134,7 @@ STAGE 1 PARAMETERS
 ``enzyme``
  Restriction Enzyme Name
  
+
 
 STAGE 2 PARAMETERS
 ~~~~~~~~~~
@@ -168,6 +170,7 @@ STAGE 2 PARAMETERS
  the size of network vertex label. default = 0.3
 
 
+
 STAGE 3 PARAMETERS
 ~~~~~~~~~~
 
@@ -196,6 +199,7 @@ comparision sites line size. default = 5
  circos line color, if choose rainbow will use random color. default = rainbow
 
 
+
 STAGE 4 PARAMETERS
 ~~~~~~~~~~
 
@@ -217,6 +221,8 @@ STAGE 4 PARAMETERS
 ``threshold``
  analysis threshold. default = 0
     
+
+
 
 Output Files
 ============
